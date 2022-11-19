@@ -36,5 +36,5 @@ Edit capture resolution, motion detection sensitivity, text overlay, record vide
 
 ## Demo
 
-<img src="demo.png" alt="drawing" width="1000px"/>
+<img src="profile/demo.png" alt="demo image"/>
 
