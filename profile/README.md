@@ -34,7 +34,6 @@ Edit capture resolution, motion detection sensitivity, text overlay, record vide
 
 4. Hit the gear icon to add your camera
 
-## Demo
-
-<img src="profile/demo.png" alt="demo image"/>
+## Demo (2x speed)
+<img src="profile/demo.gif" alt="demo gif"/>
 
