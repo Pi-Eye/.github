@@ -7,12 +7,14 @@
 ### Pi-Eye is a program for turning your Raspberry Pi into a low-latency, gpu-accelerated security camera with powerful motion detection and recording capabilities.
 
 ## Features
+ * Multi-Camera support
  * Low Latency Monitoring (< 1 sec @ 640x480)
  * Fast and accurate GPU-accelerated motion detection
  * AES-128 Encryption
  * Email notifications on motion
  * Record video and timelapses at the same time
  * Auto delete old videos
+ * User account control (only view access vs change settings))
 ## Built With
 
 <table>
