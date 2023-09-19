@@ -22,7 +22,7 @@
   <tr><th><img src="https://www.khronos.org/assets/images/api_logos/opencl3_rgb_wht.svg" style="height: 30px;"></th><th>OpenCL</th></tr>
   <tr><th><img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" style="height: 30px;"></th><th>Node.js</th></tr>
   <tr><th><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="height: 30px;"></th><th>Typescript</th></tr>
-  <tr><th><img src="https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/icons/logo.svg" style="height: 30px;"></th><th>React</th></tr>
+  <tr><th><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="height: 30px;"></th><th>React</th></tr>
 </table>
 
 # Install
